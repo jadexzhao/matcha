@@ -1,0 +1,4 @@
+.DS_Store
+CLIENT-KEY.private.md
+*.private.md
+.env
