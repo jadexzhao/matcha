@@ -1,18 +1,18 @@
 # Handoff checklist · MSIS
 
-## Before publish
+## Before publish / demo
 
-- [ ] Primary call to action works on mobile
+- [ ] Primary call to action (CTA) works on mobile
 - [ ] Heading order is logical (one h1)
 - [ ] Link text describes destination (not "click here")
 - [ ] Colour contrast readable on cream / brand backgrounds
-- [ ] Hours, address, or next-step contact present if public-facing
-- [ ] Owner knows how to edit the top three fields after handoff
+- [ ] Data ownership named (who edits after Jade leaves)
+- [ ] Abbreviations expanded on first use for non-IS readers
 
-## After publish
+## After publish / demo
 
-- [ ] Client can change copy without waiting on Jade for typos
-- [ ] Backup export / login notes stored privately (not in git)
+- [ ] Stakeholder can change top copy or config without waiting on Jade for typos
+- [ ] Access notes stored privately (not in git)
 - [ ] Open questions listed in `docs/ops-notes.md`
 
-Industry: Graduate / MSIS-connected. Brand: Jade🪴.
+Industry: Graduate · MSIS / Kelley-connected. Brand: Jade🪴.

@@ -27,7 +27,9 @@ Stack she actually uses: Python, TypeScript / JavaScript, React, Node.js, Postgr
 clients/
   nonprofit-civic/   # ServeIT-adjacent public org names OK
   commercial/        # NDA industry slugs (no personal names)
+                     #   includes private-car-sale/
   campus-orgs/       # Campus programme / org labels
+                     #   includes msis/ and kelley-luddy-peer-ventures/
 ```
 
 Each industry folder typically includes:
